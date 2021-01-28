@@ -1,4 +1,18 @@
-### Hi there 👋
+### Responsive Digital Changemaker
+
+### Likes
+Sports: Soccer, distance running, rockclimbing, cuesports
+
+Music: Guitar, bass, drums, live sound, indie, folk, rock
+
+Art and Digital Media: Photography
+
+<!--
+### Advocate for Wellbeing
+### Strategic and Empathetic Problem Solver
+### Interdisciplinary Learner
+-->
+
 
 <!--
 **marrwong/marrwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
