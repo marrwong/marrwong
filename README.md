@@ -1,21 +1,25 @@
-# Hi, marrwong here :)
+# ![https://github.com/marrwong](<https://img.shields.io/badge/(%20)-marrwong-002f6c?style=for-the-badge&labelColor=7c2529>)
 
-**one keystroke, one line of code, one commit at a time.**
+**Crafting digital experiences, one commit at a time.**
 
-## Currently working on
+---
+
+## 🏋🏼 Currently working on
 
 - Frontend web templates
 - CSS experiments
 
-## Portfolio
+## 💼 Portfolio
 
 - (will be up soon)
 
-## Favourite tools
+## 🔧 Favourite tools
 
 - Vite
 - SASS
-
-![GitHub last commit](https://img.shields.io/github/last-commit/marrwong/marrwong?label=last%20updated&style=flat-square)
+- C#
+- Netlify
 
 Thank you for visiting, and have a great day!
+
+![GitHub last commit](https://img.shields.io/github/last-commit/marrwong/marrwong?label=last%20updated&style=flat-square)
